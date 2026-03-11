@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F3F0FC&width=450&lines=Welcome+To+My+GitHub+Profile;I'm+Muhammadsoleh+Mahmadiev;Junior+Frontend+and+Kotlin+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F3F0FC&width=450&lines=Welcome+To+My+Profile;I'm+Muhammadsoleh+Mahmadiev;Junior+Frontend+-+Andoid+Dev)](https://git.io/typing-svg)
 
 # 💫 About Me:
 <br/>
