@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=30\&pause=1000\&color=58A6FF\&width=450\&lines=Welcome+To+My+Profile;I'm+Muhammadsoleh;Frontend+Developer;And;Android+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=30\&pause=1000\&color=58A6FF\&width=450\&lines=Welcome+To+My+Profile;I'm+Muhammadsoleh;Junior+Frontend+Developer;Junior+Android+Developer)](https://git.io/typing-svg)
 
 ---
 
